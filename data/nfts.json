@@ -1,0 +1,122 @@
+[
+  {
+    "token_id": 1,
+    "name": "Neon Ronin #001",
+    "collection": "Neon Ronin",
+    "description": "A masterless samurai cloaked in a rain-soaked trench coat, his katana humming with electric blue plasma. Holographic cherry blossoms drift across a neon Tokyo skyline behind him.",
+    "image": "ipfs://neon-ronin/001.png",
+    "traits": {"Background": "Neon City", "Weapon": "Plasma Katana", "Armor": "Trench Coat", "Rarity": "Legendary"}
+  },
+  {
+    "token_id": 2,
+    "name": "Neon Ronin #014",
+    "collection": "Neon Ronin",
+    "description": "A cybernetic warrior with a chrome jaw and glowing red optics, gripping a vibroblade. Steam rises from grated streets lit by flickering pink signage.",
+    "image": "ipfs://neon-ronin/014.png",
+    "traits": {"Background": "Back Alley", "Weapon": "Vibroblade", "Armor": "Chrome Plating", "Rarity": "Epic"}
+  },
+  {
+    "token_id": 3,
+    "name": "Neon Ronin #042",
+    "collection": "Neon Ronin",
+    "description": "A stealthy assassin in a black bodysuit threaded with circuitry, twin daggers crackling with violet energy. She crouches on a rooftop above a sprawling cyberpunk metropolis.",
+    "image": "ipfs://neon-ronin/042.png",
+    "traits": {"Background": "Rooftop", "Weapon": "Energy Daggers", "Armor": "Stealth Suit", "Rarity": "Epic"}
+  },
+  {
+    "token_id": 4,
+    "name": "Neon Ronin #077",
+    "collection": "Neon Ronin",
+    "description": "A battle-worn mercenary with a glowing prosthetic arm and a heavy plasma cannon. Sparks and embers fill the air around a burning industrial district.",
+    "image": "ipfs://neon-ronin/077.png",
+    "traits": {"Background": "Industrial Fire", "Weapon": "Plasma Cannon", "Armor": "Heavy Mech", "Rarity": "Rare"}
+  },
+  {
+    "token_id": 5,
+    "name": "Neon Ronin #103",
+    "collection": "Neon Ronin",
+    "description": "A wandering swordsman bathed in soft teal light, his simple blade reflecting the glow of distant skyscrapers. A quiet, contemplative warrior under a digital moon.",
+    "image": "ipfs://neon-ronin/103.png",
+    "traits": {"Background": "Digital Moon", "Weapon": "Steel Katana", "Armor": "Worn Kimono", "Rarity": "Common"}
+  },
+  {
+    "token_id": 6,
+    "name": "Pastel Critter #210",
+    "collection": "Pastel Critters",
+    "description": "An impossibly fluffy lavender bunny with oversized sparkling eyes, nestled in a bed of cotton-candy clouds. Soft, dreamy, and unbearably adorable.",
+    "image": "ipfs://pastel-critters/210.png",
+    "traits": {"Background": "Cloud Field", "Species": "Bunny", "Color": "Lavender", "Rarity": "Rare"}
+  },
+  {
+    "token_id": 7,
+    "name": "Pastel Critter #233",
+    "collection": "Pastel Critters",
+    "description": "A tiny mint-green kitten with a pastel pink bow, batting at floating bubbles. Round cheeks and a gentle, sleepy smile make it the cutest creature in the meadow.",
+    "image": "ipfs://pastel-critters/233.png",
+    "traits": {"Background": "Bubble Meadow", "Species": "Kitten", "Color": "Mint", "Rarity": "Common"}
+  },
+  {
+    "token_id": 8,
+    "name": "Pastel Critter #251",
+    "collection": "Pastel Critters",
+    "description": "A chubby peach-colored hamster wearing a tiny crown, surrounded by floating hearts and sprinkles. The rarest and most regal of the cuddly companions.",
+    "image": "ipfs://pastel-critters/251.png",
+    "traits": {"Background": "Heart Sky", "Species": "Hamster", "Color": "Peach", "Rarity": "Legendary"}
+  },
+  {
+    "token_id": 9,
+    "name": "Pastel Critter #288",
+    "collection": "Pastel Critters",
+    "description": "A baby blue puppy with floppy ears and a soft glittery coat, chasing pastel butterflies through a field of marshmallow flowers.",
+    "image": "ipfs://pastel-critters/288.png",
+    "traits": {"Background": "Marshmallow Field", "Species": "Puppy", "Color": "Baby Blue", "Rarity": "Common"}
+  },
+  {
+    "token_id": 10,
+    "name": "Ancient Relic #007",
+    "collection": "Ancient Relics",
+    "description": "A weathered golden amulet inscribed with forgotten runes, pulsing with a faint inner light. Said to channel the power of a long-dead sun god.",
+    "image": "ipfs://ancient-relics/007.png",
+    "traits": {"Material": "Gold", "Era": "First Dynasty", "Power": "Solar", "Rarity": "Legendary"}
+  },
+  {
+    "token_id": 11,
+    "name": "Ancient Relic #019",
+    "collection": "Ancient Relics",
+    "description": "A cracked obsidian dagger wrapped in decaying leather, its blade etched with the sigil of an extinct cult. Cold to the touch and humming with dark energy.",
+    "image": "ipfs://ancient-relics/019.png",
+    "traits": {"Material": "Obsidian", "Era": "Shadow Age", "Power": "Necrotic", "Rarity": "Epic"}
+  },
+  {
+    "token_id": 12,
+    "name": "Ancient Relic #033",
+    "collection": "Ancient Relics",
+    "description": "A simple clay tablet covered in spiraling cuneiform, chronicling a flood that drowned an empire. Plain, fragile, and priceless to scholars.",
+    "image": "ipfs://ancient-relics/033.png",
+    "traits": {"Material": "Clay", "Era": "First Dynasty", "Power": "None", "Rarity": "Common"}
+  },
+  {
+    "token_id": 13,
+    "name": "Ancient Relic #044",
+    "collection": "Ancient Relics",
+    "description": "A silver chalice encrusted with sapphires, brimming with a liquid that never evaporates. Legend claims a single sip grants visions of the future.",
+    "image": "ipfs://ancient-relics/044.png",
+    "traits": {"Material": "Silver", "Era": "Age of Oracles", "Power": "Foresight", "Rarity": "Rare"}
+  },
+  {
+    "token_id": 14,
+    "name": "Neon Ronin #156",
+    "collection": "Neon Ronin",
+    "description": "An armored general clad in glowing crimson nano-plates, commanding a legion from atop a hovering platform. His energy naginata splits the smog-filled sky.",
+    "image": "ipfs://neon-ronin/156.png",
+    "traits": {"Background": "War Platform", "Weapon": "Energy Naginata", "Armor": "Nano Plate", "Rarity": "Legendary"}
+  },
+  {
+    "token_id": 15,
+    "name": "Pastel Critter #299",
+    "collection": "Pastel Critters",
+    "description": "A sleepy yellow duckling curled inside a teacup, tiny bubbles floating from its beak. The picture of soft, harmless comfort.",
+    "image": "ipfs://pastel-critters/299.png",
+    "traits": {"Background": "Teacup", "Species": "Duckling", "Color": "Yellow", "Rarity": "Common"}
+  }
+]
