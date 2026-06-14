@@ -248,8 +248,9 @@ problems that exact-match search can't touch:
 - **On-chain text search** — ENS profiles, DAO proposals, governance threads.
 - **Wash-trading / anomaly detection** — find outliers by vector distance.
 
-The full, runnable code is on GitHub: **[link your repo here]**. Clone it, point it
-at a real collection's metadata, and you've got semantic NFT search in an afternoon.
+The full, runnable code is on GitHub: **[github.com/midegdugarova/web3-nft-vector-search](https://github.com/midegdugarova/web3-nft-vector-search)**.
+Clone it, point it at a real collection's metadata, and you've got semantic NFT
+search in an afternoon.
 
 If you're building at the Web3 × AI intersection, I'd genuinely like to hear what
-you're working on — find me at [your handle].
+you're working on — find me at [github.com/midegdugarova](https://github.com/midegdugarova).

@@ -14,7 +14,7 @@ and Qdrant runs in-memory. Clone, install, run.
 ## Quickstart
 
 ```bash
-git clone <your-fork-url>
+git clone https://github.com/midegdugarova/web3-nft-vector-search.git
 cd web3-nft-vector-search
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
