@@ -11,6 +11,9 @@ This repo is a complete, runnable example. **No API keys. No Docker. No cloud
 account.** Embeddings run locally via [FastEmbed](https://github.com/qdrant/fastembed),
 and Qdrant runs in-memory. Clone, install, run.
 
+> 📝 Prefer a narrative walkthrough? Read the companion article:
+> [**Vector Search for Web3 Developers** on dev.to](https://dev.to/midegdugarova/vector-search-for-web3-developers-searching-nft-metadata-with-qdrant-966).
+
 ## Quickstart
 
 ```bash
